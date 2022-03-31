@@ -5,8 +5,10 @@ int main()
 {
 	//Straight a;
 	//a.Area();
-	Point b;
-	b.Area();
-	Straight c;
+	
+	//Circle d;
+	//d.Draw();
+	Square sq;
+	sq.Draw();
 	return 0;
 }

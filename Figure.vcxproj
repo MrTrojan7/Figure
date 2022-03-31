@@ -143,7 +143,6 @@
     <ClInclude Include="Figure.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Figure.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
